@@ -1,0 +1,31 @@
+What is smtp?
+Osi reference model layer
+What is network
+Network layer
+What is snapshot
+What is subnetting
+What is latency
+Osi model explain briefly
+What is tcp?
+What is vpn
+What is snmp?
+Different types of network
+What' is static ip and dynamic ip
+Difference between firewall ND antivirus
+What is protocol
+Subnet mask
+What is NAT
+What is default gateway
+What is fsmo rules
+Domain controller?
+Explain sysvol folder
+RAID?
+Diff b'wen proxy and gateway?
+Diff bwen NTFS and FAT
+NAT instamce
+Swap memory?
+LILO?
+Diff been Linux and unix?
+What is command to calculate the size of folder?
+How u can find a file using terminal?
+How uninstall the libraries in Linux?
